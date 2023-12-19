@@ -1,0 +1,20 @@
+{
+  "name": "com.dreadscripts.controllereditor",
+  "displayName": "DreadTools - Controller Editor",
+  "version": "3.0.0",
+  "description": "An Editor tool and patcher to simplify, hasten, and improve your workflow with everything to do with Animator Controllers!",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {
+    "Assets/DreadScripts/ControllerEditor": "",
+    "Assets/DreadScripts/Dependencies": ""
+  },
+  "legacyFiles": {},
+  "localPath": "C:\\My Drive\\Unity Projects\\sus\u00f6-fil\u00f6e.asd\\\u9014\u4e2d\\TempProject\\Packages\\com.dreadscripts.controllereditor",
+  "type": "tool"
+}

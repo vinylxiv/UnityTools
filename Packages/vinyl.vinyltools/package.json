@@ -1,0 +1,12 @@
+{
+  "name": "vinyl.vinyltools",
+  "displayName": "Vinyl's Unity Tools",
+  "version": "1.0.1",
+  "description": "Bunch of dumb tools I've made to make life easier.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": ".\\Packages\\vinyl.vinyltools",
+  "type": "tool"
+}

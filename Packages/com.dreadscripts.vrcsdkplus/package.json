@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://github.com/Dreadrith"
+  },
+  "name": "com.dreadscripts.vrcsdkplus",
+  "displayName": "DreadScripts - VRCSDK+",
+  "version": "1.3.5",
+  "description": "Overrides the VRCSDK Menu & Expression Parameters Editors to provide better functionality and quality of life features.",
+  "keywords": [
+  "Dreadrith",
+  "DreadScripts",
+  "DreadTools",
+  "Editor",
+  "Utility",
+  "Selection"
+  ],
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.0.0"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
